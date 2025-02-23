@@ -72,6 +72,7 @@ header {
 
 button {
   padding: 10px 20px;
-  margin-top: 10px;
+  margin: 10px;
   cursor: pointer;
+  border: 1px solid black;
 }
